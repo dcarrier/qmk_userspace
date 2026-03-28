@@ -1,6 +1,6 @@
 {
     "userspace_version": "1.0",
     "build_targets": [
-        ["boardsource/unicorne/3x6", "miryoku"]
+        ["boardsource/unicorne", "miryoku"]
     ]
 }
